@@ -19,8 +19,8 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: surgical technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 44085784064
-  numberOfFiles: 60
+  numberOfBytes: 44969345792
+  numberOfFiles: 61
   numberOfSubjects: 15
   schemaKey: AssetsSummary
   species:
@@ -44,6 +44,7 @@ contributor:
   - dcite:ContactPerson
   schemaKey: Person
 dateCreated: '2025-09-24T16:36:45.104372+00:00'
+datePublished: '2025-09-27T18:01:47.368360+00:00'
 description: Calcium imaging and targeted optogenetic stimulation of the anterior
   lateral motor cortex during multi-directional tongue-reaching behavior
 id: DANDI:001612/draft
@@ -54,6 +55,18 @@ manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/001612/versions/draft/assets/
 name: Dataset for Finkelstein et al. "Connectivity underlying motor cortex activity
   during goal-directed behavior" 2025
+publishedBy:
+  endDate: '2025-09-27T18:01:47.368360+00:00'
+  id: urn:uuid:f25e19f5-28c4-4f94-8493-f2dcb53a9a16
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2025-09-27T18:01:47.368360+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:6db1da52-f510-4e84-b45d-70de8f530f6e
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.10
